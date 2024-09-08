@@ -1,0 +1,8 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore specific build output folders
+bin/*
+debug/*
+net8.0/*
